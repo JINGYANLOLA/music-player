@@ -1,1 +1,2 @@
-# new-shopping-cart
+# Music-player
+## Independent project in EECS 330
